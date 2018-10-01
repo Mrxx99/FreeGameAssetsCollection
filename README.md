@@ -25,3 +25,10 @@
 | 18 FREE Skyboxes UnityPackage | https://forum.unity.com/threads/18-free-skyboxes-unitypackage.27513/ |
 | SpaceScape | https://sourceforge.net/projects/spacescape/ |
 | Quake 3 Arena skybox collection (lvlworld) | https://lvlworld.com/overview/Quake%203%20Arena%20skybox%20collection |
+
+## 3D-Models
+
+|  Name | URL  | ToDo: Licence |
+|---|---|---|
+| BlendSwap | https://www.blendswap.com/ | CC-0 / CC-BY / CC-BY-SA / CC-BY-NC-SA
+| yobi3D | https://www.yobi3d.com/ |
